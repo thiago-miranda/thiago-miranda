@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Eu sou o Thiago, Desenvolvedor FullStack 👨‍💻 Estudo programação  desde 2016 🚀</div>  
+### <div align="center">Eu sou o Thiago, Desenvolvedor Front-End 👨‍💻 Estudo programação  desde 2016 🚀</div>  
   
 
 - 🌱 Atualmente estou aprendendo ReactJS  
