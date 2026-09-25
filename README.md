@@ -1,80 +1,104 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">Eu sou o Thiago, Desenvolvedor Front-End 👨‍💻 Estudo programação  desde 2016 🚀</div>  
-  
+# Thiago Miranda
 
-- 🌱 Atualmente estou aprendendo ReactJS  
-  
+### Flutter Developer · Mobile Apps · Product Builder
 
-<br/>  
+Construindo aplicativos desde 2016, com foco atual em **Flutter**, produtos mobile e ferramentas úteis para problemas reais.
 
+[![GitHub](https://img.shields.io/badge/GitHub-thiago--miranda-181717?style=for-the-badge&logo=github)](https://github.com/thiago-miranda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago%20Miranda-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiago-miranda-souza)
+[![Website](https://img.shields.io/badge/Website-Whengo-263649?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.whengo.com.br)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## Sobre mim
 
+Sou desenvolvedor com foco em **aplicativos mobile**, principalmente com Flutter e Dart. Gosto de transformar necessidades práticas em produtos simples, funcionais e publicáveis — da ideia à interface, cálculos, monetização, privacidade e distribuição nas lojas.
 
-</td><td valign="top" width="33%">
+Hoje meu trabalho envolve tanto apps utilitários pequenos quanto projetos maiores com recursos como comunidade, autenticação, assinaturas, anúncios, internacionalização e integrações nativas Android/iOS.
 
+- 📱 Desenvolvimento multiplataforma com **Flutter / Dart**
+- 🤖 Integrações Android com **Kotlin / Java**
+- ☁️ **Supabase** e **Firebase** quando o projeto precisa de backend
+- 💳 Assinaturas e compras com **RevenueCat**
+- 📢 Monetização com **Google AdMob / UMP**
+- 🌍 Internacionalização e publicação global
+- 🚀 Publicação e manutenção na **Google Play** e **App Store**
+- 🧰 Git, GitHub, automações e ferramentas de release
 
+---
 
-</td></tr></table>  
+## Projetos em destaque
 
-<br/>  
+| Projeto | O que faz |
+| --- | --- |
+| **TraceCerto** | Ferramentas, cálculos e traçados técnicos para caldeiraria, tubulação e fabricação industrial. |
+| [**Metal Weight Calculator**](https://www.whengo.com.br/metalweight.html) | Calcula peso teórico de chapas, tubos, barras e perfis em sistema métrico ou imperial. |
+| [**FraCalc**](https://www.whengo.com.br/fracalc.html) | Calculadora de frações com números mistos, simplificação e resultado decimal. |
+| [**Datas que Marcam**](https://www.whengo.com.br/datas-que-marcam.html) | Acompanha aniversários, datas importantes e eventos futuros com widgets Android. |
+| [**Gerador EAN-13**](https://www.whengo.com.br/gerador-ean13.html) | Geração de códigos EAN-13 com dígito verificador automático e compartilhamento. |
+| [**Calculadora de IMC Rápida**](https://www.whengo.com.br/calculadora-imc.html) | Cálculo rápido de IMC com classificação visual. |
 
+> Meu foco é construir produtos que possam sair do repositório e chegar às mãos de usuários reais.
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/thiago-miranda" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/thiago-miranda-souza" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/thiago.miranda.98" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/thiago_miranda1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thiago-miranda&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+## Stack
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=thiago-miranda&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+### Mobile
 
-<div align="center"></div>
-<br />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+### Backend, serviços e monetização
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=for-the-badge&logo=googleadmob&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge&logoColor=white)
+
+### Desenvolvimento
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## O que gosto de construir
+
+Aplicativos que resolvem uma tarefa de forma direta: **calculadoras, ferramentas técnicas, utilitários, produtividade e produtos mobile especializados**.
+
+Também tenho interesse em arquitetura de apps, experiência offline-first, monetização sustentável, internacionalização, automação de publicação e evolução de produtos a partir do uso real.
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thiago-miranda&show_icons=true&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+
+<img src="https://komarev.com/ghpvc/?username=thiago-miranda&style=flat-square" alt="Profile views" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Construindo, publicando e melhorando um app de cada vez.**
+
+</div>
